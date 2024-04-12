@@ -1,2 +1,2 @@
 # static-template
-use astro+react+shadcn
+Astro + React + Shadcn
